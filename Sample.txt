@@ -1,8 +1,5 @@
 Hello
-
 Hello, how are you?
-
 I am fine, thank you.
-
-
 Good to know, now next commit in place.
+Now the code will be merged in new branch i.e myfeature.
